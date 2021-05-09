@@ -1,0 +1,12 @@
+Hello,
+
+We couldn't compile the files due to a package error.
+Repl.it and IntelliJ didn't want to let us compile.
+We tried with packages and imports but nothing worked.
+
+So we couldn't create the executable .jar file with the following command:
+`jar -cvfm graphImpl.jar src/graph/Manifest.txt bin/graph/*.class``
+
+Thank you for your understanding, 
+Have a good day,
+Loïs & Lucas.
